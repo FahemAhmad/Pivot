@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "5f15d885hia025143f9593a7c"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhFmbbTWPELcKjN3EQ1LS6ebzFf9GeaxhmF98ttmOoh9rmvzlcOY_DIqXck0_sk7tVyZ8&usqp=CAU",
+    "brand": "Sony",
+    "price": 550,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "PS5",
+    "description": "The latest Sony PlayStation introduced in November 2020. Powered by an eight-core AMD Zen 2 CPU and custom AMD Radeon GPU, the PS5 is offered in two models: with and without a 4K Blu-ray drive.",
+    "category": {
+      "$oid": "5f15d545f3a046427a1c26e2"
+    },
+    "countInStock": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15d885bbaa025143f9593a7c"
+    },
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/m2-mackbook-air-lead-1657739667.jpg?resize=980:*",
+    "brand": "Apple",
+    "price": 2500,
+    "rating": 4,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Macbook Air M2",
+    "description": "M2 is the next generation of Apple silicon. Its 8-core CPU lets you zip through everyday tasks like creating documents and presentations, or take on more intensive workflows like developing in Xcode or mixing tracks in Logic Pro.",
+    "category": {
+      "$oid": "5f15d54cf3a046427a1c26e3"
+    },
+    "countInStock": 10,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f112d8852a025143f9593a7c"
+    },
+    "image": "https://m.media-amazon.com/images/G/03/img15/MarchEye/Premiumaplus/DEDE_iPhone_14_Pro_5G_Q422_Web_Marketing_Page_PSD_Bronze_L_01._CB609263567_.jpg",
+    "brand": "Apple",
+    "price": 999,
+    "rating": 3,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Iphone 14 Pro",
+    "description": "A magical new way to interact with iPhone. Groundbreaking safety features designed to save lives. An innovative 48MP camera for mind-blowing detail. All powered by the ultimate smartphone chip",
+    "category": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "countInStock": 20,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "5f15d8852a025142f9593a6c"
+    },
+    "image": "https://images.samsung.com/pk/smartphones/galaxy-s22-ultra/images/galaxy-s22-ultra_highlights_colors_burgundy_front.jpg",
+    "brand": "Samsung",
+    "price": 999,
+    "rating": 4,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "S22 Ultra",
+    "description": "An epic leap for smartphone technology.",
+    "category": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "countInStock": 20,
+    "__v": 0
+  }
+]
